@@ -8,6 +8,10 @@ h1{
     text-align: center;
 }
 
+p{
+    color: pink;
+}
+
 .projects { 
     display:flex; 
     flex-wrap:wrap; 
